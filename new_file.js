@@ -1,5 +1,5 @@
 console.log("I made this project in javascript");
 
-console log (another hagne was madde)
+more silly changes
 
-print (hi)
+my code doesn't run!
